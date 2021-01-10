@@ -1,2 +1,2 @@
-# vs-code-theme
+# vs-code-theme NOVA
  
